@@ -8,4 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ato1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: fff437fc41c96b948ad55431a3e14b4f
+  - enabled: 1
+    path: Assets/Scenes/ato2.unity
+    guid: af21b303e2c499148ad3c4c82d1d22b3
+  - enabled: 1
+    path: Assets/Scenes/Cinematic.unity
+    guid: 24e64aca3aa76ea429960caaee00e1b1
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: c226e4d83a705fb44b5297db3f247d73
+  - enabled: 1
+    path: Assets/Scenes/Opcoes.unity
+    guid: aed54dc5ea503d44c90b2e86956e73bc
   m_configObjects: {}
